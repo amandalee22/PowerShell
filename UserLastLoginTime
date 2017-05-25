@@ -1,3 +1,5 @@
+//Change UserName//
+
 Import-Module ActiveDirectory
 
 function Get-ADUserLastLogon([string]$userName)
